@@ -1,0 +1,9 @@
+{
+  "name": "Dawson Landscaping & Maintenance",
+  "short_name": "Dawson Landscaping",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f4e5",
+  "theme_color": "#292b0f",
+  "icons": [{"src":"assets/images/dawson-icon.png","sizes":"256x235","type":"image/png"}]
+}
